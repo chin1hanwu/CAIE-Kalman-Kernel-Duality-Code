@@ -1,0 +1,2 @@
+-r requirements.txt
+pynwb>=3,<4
